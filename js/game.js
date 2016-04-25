@@ -3,7 +3,6 @@
  * TODO:是否必要用try,catch,return false等
  * TODO: 比较singleCard中的双方比分,赢得比赛的队伍改变背景色或文字颜色
  */
-
 //预定义日期数组,如果因天气等原因而延期,可在此处修改调整后的日期
 var dateArr = [
 	"2016年3月20日",
